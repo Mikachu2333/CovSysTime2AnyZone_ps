@@ -1,5 +1,5 @@
 # Which time zone you need
-$NeedZone = 8
+$NeedZone = [Int16]8
 # Which format you'd like to use for output
 $OutputFormat = "%Y-%m-%d_%H:%M:%S"
 #
